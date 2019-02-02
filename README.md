@@ -1,6 +1,7 @@
 # Mice Tracking Using The YOLO Algorithm
 
 ![Results Image](results/results_grid.png)
+
 *Output examples of the YOLO network. (a)-(c) refer to [Ethological Evaluation](https://www.frontiersin.org/articles/10.3389/fnbeh.2015.00364/full), (d)-(f) refer to [Automated home-cage](https://www.nature.com/articles/ncomms1064) and (g)-(i) to [Crim](http://www.vision.caltech.edu/Video_Datasets/CRIM13/CRIM13/Main.html)*
 
 This project **was developed and tested for Ubuntu 16.04 and 18.04.**
