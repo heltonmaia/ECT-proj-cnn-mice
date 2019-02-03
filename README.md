@@ -55,7 +55,7 @@ user@computer:~/repo_folder$ sh video.sh .data .cfg .weight video
 * To save a video with the classifications do:
 
 ```console
-user@computer:~/repo_folder$ sh video.sh .data .cfg .weight video output
+user@computer:~/repo_folder$ sh videoOutput.sh .data .cfg .weight video output
 ```
 
 * To calculate the mAP of a weight do:
