@@ -29,7 +29,7 @@ First clone the [repository](https://gitlab.com/helton.maia/proj-cnn-mice) and c
 ```console
 user@computer:~$ git clone https://gitlab.com/helton.maia/proj-cnn-mice
 user@computer:~$ cd proj-cnn-mice
-user@computer:~$ make
+user@computer:~/proj-cnn-mice$ make
 ```
 
 ## Weights
