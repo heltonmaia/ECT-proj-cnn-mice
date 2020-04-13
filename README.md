@@ -69,3 +69,22 @@ user@computer:~/repo_folder$ sh mAP.sh .data .cfg .weight
 ```console
 user@computer:~/repo_folder$ sh executionTime.sh .data .cfg .weights files output
 ```
+
+# Cite This Project
+
+If you use this project in your research or wish to refer to the baseline results published, please use the following BibTeX entry.
+
+
+```bash
+@article{peixoto2019mice,
+  title={Mice tracking using the YOLO algorithm},
+  author={
+    Peixoto, Helton Maia and Teles, Richardson Santiago and Luiz, John Victor Alves and Henriques-Alves, Aron Miranda, and Santa Cruz, Rossana Moreno
+  },
+  journal={PeerJ Preprints},
+  volume={7},
+  pages={e27880v1},
+  year={2019},
+  publisher={PeerJ Inc. San Diego, USA}
+}
+```
